@@ -77,13 +77,7 @@ export default function Signin() {
           </button>
           {error && <p className="error">{error}</p>}
         </form>
-        <Link
-          style={{ color: "blue", textDecoration: "underline" }}
-          className="agreement"
-          href="/auth/signup"
-        >
-          Create an account
-        </Link>
+        
       </div>
     </div>
   );
