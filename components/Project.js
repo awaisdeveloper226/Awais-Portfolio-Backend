@@ -184,10 +184,7 @@ export default function ProjectComponent({
         >
           <option value="Website Development">Website Development</option>
           <option value="App Development">App Development</option>
-          <option value="Design System">Design System</option>
-          <option value="Website Migration">Website Migration</option>
-          <option value="E-commerce Site">Ecommerce Site</option>
-          <option value="Performance Evaluation">Performance Evaluation</option>
+          <option value="SEO">SEO</option>
         </select>
       </div>
 
